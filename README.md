@@ -1,7 +1,6 @@
 # WebAppSurprice
 Web Aplikasi Form Input Database Operasional
 [ecommerce_html_version.html](https://github.com/user-attachments/files/23015009/ecommerce_html_version.html)
-<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
