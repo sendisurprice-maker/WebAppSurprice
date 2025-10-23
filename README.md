@@ -559,9 +559,6 @@ footer a:hover {
                     <i class="fas fa-user-tie"></i>
                 </div>
                 <h3>HRD</h3>
-                <a href="https://form.jotform.com/ID_FORM_HRD" target="_blank">
-                    <i class="fas fa-users"></i> Form SDM
-                </a>
                 <a href="https://form.jotform.com/252885736906068" target="_blank">
                     <i class="fas fa-door-open"></i> Ijin Keluar Kantor
                 </a>
