@@ -559,7 +559,7 @@ footer a:hover {
                     <i class="fas fa-user-tie"></i>
                 </div>
                 <h3>HRD</h3>
-                <a href="https://script.google.com/macros/s/AKfycbx8RGunP2k2M-gXlPCrOCFj6Gk5Gto9jPKkiVwA4sxz6RfP9peQ0leBZjkE-d5YRGycpg/exec" target="_blank">
+                <a href="https://script.google.com/macros/s/AKfycbwEmDG5TxT_Y3TL_bXDzPcggYl7hFh20U2fVxqmGxma/Exec" target="_blank">
                     <i class="fas fa-door-open"></i> Ijin Keluar Kantor
                 </a>
             </div>
