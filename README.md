@@ -529,10 +529,7 @@ footer a:hover {
                 <a href="https://form.jotform.com/sendisurprice/aplikasi-barang-defect" target="_blank">
                     <i class="fas fa-exclamation-triangle"></i> Barang Defect
                 </a>
-                <a href="https://form.jotform.com/252885736906068" target="_blank">
-                    <i class="fas fa-door-open"></i> Ijin Keluar Kantor
-                </a>
-            </div>
+             </div>
 
             <!-- Penjualan -->
             <div class="divisi-card">
@@ -564,6 +561,9 @@ footer a:hover {
                 <h3>HRD</h3>
                 <a href="https://form.jotform.com/ID_FORM_HRD" target="_blank">
                     <i class="fas fa-users"></i> Form SDM
+                </a>
+                <a href="https://form.jotform.com/252885736906068" target="_blank">
+                    <i class="fas fa-door-open"></i> Ijin Keluar Kantor
                 </a>
             </div>
 
