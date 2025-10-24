@@ -526,6 +526,9 @@ footer a:hover {
                 <a href="https://script.google.com/macros/s/AKfycbxowhyNoPAzcWnxRLYHXJ41oAO-Nnfi07sJYD0BgTkT2pn-MqsdhwMbXGSNOz4lGuntJA/exec" target="_blank">
                     <i class="fas fa-truck-loading"></i> Form Checker-Defect
                 </a>
+             <a href="https://script.google.com/macros/s/AKfycbyYeIlazPCBsSYE8aiXFU66Qdlcgwg2FP3W0lg2BbrkWAV79ZwrVH9C-cnuo5qSmyBj/exec" target="_blank">
+                    <i class="fas fa-truck-loading"></i> Form Serah Terima Barang Ke Kurir
+                </a>
                       <!-- Penjualan -->
             <div class="divisi-card">
                 <div class="icon-box">
