@@ -523,8 +523,8 @@ footer a:hover {
                     <i class="fas fa-warehouse"></i>
                 </div>
                 <h3>Warehouse</h3>
-                <a href="https://form.jotform.com/252910171382048" target="_blank">
-                    <i class="fas fa-truck-loading"></i> Serah Terima Outbound
+                <a href="https://script.google.com/macros/s/AKfycbxowhyNoPAzcWnxRLYHXJ41oAO-Nnfi07sJYD0BgTkT2pn-MqsdhwMbXGSNOz4lGuntJA/exec" target="_blank">
+                    <i class="fas fa-truck-loading"></i> Form Checker-Defect
                 </a>
                 <a href="https://form.jotform.com/sendisurprice/aplikasi-barang-defect" target="_blank">
                     <i class="fas fa-exclamation-triangle"></i> Barang Defect
