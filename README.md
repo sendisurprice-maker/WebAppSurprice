@@ -526,10 +526,7 @@ footer a:hover {
                 <a href="https://script.google.com/macros/s/AKfycbxowhyNoPAzcWnxRLYHXJ41oAO-Nnfi07sJYD0BgTkT2pn-MqsdhwMbXGSNOz4lGuntJA/exec" target="_blank">
                     <i class="fas fa-truck-loading"></i> Form Checker-Defect
                 </a>
-                <a href="https://form.jotform.com/sendisurprice/aplikasi-barang-defect" target="_blank">
-                    <i class="fas fa-exclamation-triangle"></i> Barang Defect
-                </a>
-             </div>
+             /div>
 
             <!-- Penjualan -->
             <div class="divisi-card">
