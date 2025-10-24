@@ -696,5 +696,4 @@ document.querySelectorAll('nav a').forEach(anchor => {
 });
 </script>
 
-</body>
-</html>
+
