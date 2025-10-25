@@ -584,14 +584,14 @@ footer a:hover {
                 </a>
             </div>
 
-            <!-- Kurir -->
+            <!-- INPUT AKTIVITAS LAPORAN TIM SURPRICE -->
             <div class="divisi-card">
-                <div class="icon-box">
+                <div class="icon-Report">
                     <i class="fas fa-shipping-fast"></i>
                 </div>
-                <h3>Kurir</h3>
-                <a href="https://form.jotform.com/ID_FORM_KURIR" target="_blank">
-                    <i class="fas fa-box"></i> Form Pengiriman
+                <h3>FORM Input</h3>
+                <a href="https://script.google.com/macros/s/AKfycbzgNDuRI70Cis7ytoaGP_J7HXbnRxF0DxQZ1yyLetn7IqXPoGsZQ86WU84q2KuCK5PR/exec" target="_blank">
+                    <i class="fas fa-box"></i> Form Laporan
                 </a>
             </div>
         </div>
