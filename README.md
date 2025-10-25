@@ -583,20 +583,17 @@ footer a:hover {
                     <i class="fas fa-shipping-fast"></i> Form Transportasi
                 </a>
             </div>
-
- <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.10.2/lottie.min.js"></script>
-
-<div id="laporan-animation" style="width:100px; height:100px; margin:auto;"></div>
-
-<script>
+ <!-- FORM APLIKASI INPUT PEKERJAAN -->
+            <script>
   lottie.loadAnimation({
-    container: document.getElementById('laporan-animation'),
+    container: document.getElementById('animasiLaporan'),
     renderer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'https://assets10.lottiefiles.com/packages/lf20_laporan.json' // ganti dengan link animasi Lottie
+    path: 'https://assets5.lottiefiles.com/packages/lf20_3vbOcw.json' // contoh animasi laporan
   });
 </script>
+
 
                      <h3>FORM INPUT</h3>
                 <a href="https://script.google.com/macros/s/AKfycbzgNDuRI70Cis7ytoaGP_J7HXbnRxF0DxQZ1yyLetn7IqXPoGsZQ86WU84q2KuCK5PR/exec" target="_blank">
