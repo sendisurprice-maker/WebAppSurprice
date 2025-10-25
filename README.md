@@ -585,20 +585,28 @@ footer a:hover {
             </div>
 
                 .animated-icon .hand {
-         animation: wave 2s infinite ease-in-out;
-     }
-     .animated-icon .paper {
-         animation: bounce 1.5s infinite;
-     }
-     @keyframes wave {
-         0%, 100% { transform: rotate(0deg); }
-         50% { transform: rotate(10deg); }
-     }
-     @keyframes bounce {
-         0%, 100% { transform: translateY(0); }
-         50% { transform: translateY(-2px); }
-     }
-                     <h3>FORM Input</h3>
+    animation: wave 2s infinite ease-in-out;
+}
+.animated-icon .paper {
+    animation: bounce 1.5s infinite;
+}
+.animated-icon .star {
+    animation: twinkle 1s infinite alternate;
+}
+@keyframes wave {
+    0%, 100% { transform: rotate(0deg); }
+    50% { transform: rotate(15deg); }
+}
+@keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-3px); }
+}
+@keyframes twinkle {
+    0% { opacity: 1; }
+    100% { opacity: 0.5; }
+}
+
+                     <h3>FORM INPUT</h3>
                 <a href="https://script.google.com/macros/s/AKfycbzgNDuRI70Cis7ytoaGP_J7HXbnRxF0DxQZ1yyLetn7IqXPoGsZQ86WU84q2KuCK5PR/exec" target="_blank">
                     <i class="fas fa-box"></i> Form Laporan
                 </a>
