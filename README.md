@@ -584,27 +584,19 @@ footer a:hover {
                 </a>
             </div>
 
-                .animated-icon .hand {
-    animation: wave 2s infinite ease-in-out;
-}
-.animated-icon .paper {
-    animation: bounce 1.5s infinite;
-}
-.animated-icon .star {
-    animation: twinkle 1s infinite alternate;
-}
-@keyframes wave {
-    0%, 100% { transform: rotate(0deg); }
-    50% { transform: rotate(15deg); }
-}
-@keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-3px); }
-}
-@keyframes twinkle {
-    0% { opacity: 1; }
-    100% { opacity: 0.5; }
-}
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.10.2/lottie.min.js"></script>
+
+<div id="laporan-animation" style="width:100px; height:100px; margin:auto;"></div>
+
+<script>
+  lottie.loadAnimation({
+    container: document.getElementById('laporan-animation'),
+    renderer: 'svg',
+    loop: true,
+    autoplay: true,
+    path: 'https://assets10.lottiefiles.com/packages/lf20_laporan.json' // ganti dengan link animasi Lottie
+  });
+</script>
 
                      <h3>FORM INPUT</h3>
                 <a href="https://script.google.com/macros/s/AKfycbzgNDuRI70Cis7ytoaGP_J7HXbnRxF0DxQZ1yyLetn7IqXPoGsZQ86WU84q2KuCK5PR/exec" target="_blank">
