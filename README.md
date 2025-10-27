@@ -548,6 +548,17 @@ footer a:hover {
   <span>Form APLIKASI INBOUND DARI SUPPLIER </span>
 </a>
 
+<a href="https://script.google.com/macros/s/AKfycbwoyqncHn5I5qBNvE4zoyRauLDbaJ8d4Gf7bXJ1QfoZSDlX3Swb__ZUqcwP-D1JwK8R/exec"
+   target="_blank"
+   style="display: flex; align-items: center; gap: 10px; background: linear-gradient(90deg, #ffcc00, #ff6600);
+          padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; text-decoration: none;
+          box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: transform 0.2s; width: fit-content;">
+  <img src="https://cdn-icons-png.flaticon.com/512/7060/7060645.png"
+       alt="SO Gudang Icon"
+       style="width: 40px; height: 40px; border-radius: 8px;">
+  <span>SO GUDANG</span>
+</a>
+
                       <!-- Penjualan -->
             <div class="divisi-card">
                 <div class="icon-box">
