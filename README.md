@@ -531,11 +531,11 @@ footer a:hover {
 
 <a href="https://script.google.com/macros/s/AKfycbyYeIlazPCBsSYE8aiXFU66Qdlcgwg2FP3W0lg2BbrkWAV79ZwrVH9C-cnuo5qSmyBj/exec"
    target="_blank"
-    style="display: flex; align-items: center; gap: 10px; background: linear-gradient(90deg, #007bff, #00bfff);
-          padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; text-decoration: none;
-          box-shadow: 0 4px 10px rgba(0, 123, 255, 0.3); transition: all 0.3s ease; font-size: 15px;">
+    style="display: flex; align-items: center; gap: 10px; background: linear-gradient(90deg, #0056b3, #007bff);
+        padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; text-decoration: none;
+        box-shadow: 0 4px 10px rgba(0, 123, 255, 0.3); transition: all 0.3s ease; font-size: 15px;"
   
-  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif"
+  <img src="https://chatgpt.com/s/m_68fef98479748191adfc6416b574f410"
        alt="Kurir Animation"
        style="width: 40px; height: 40px; border-radius: 8px;">
    <span>Form Serah Terima Barang ke Kurir</span>
