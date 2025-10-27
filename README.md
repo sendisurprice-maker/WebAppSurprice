@@ -529,6 +529,18 @@ footer a:hover {
              <a href="https://script.google.com/macros/s/AKfycbyYeIlazPCBsSYE8aiXFU66Qdlcgwg2FP3W0lg2BbrkWAV79ZwrVH9C-cnuo5qSmyBj/exec" target="_blank">
                     <i class="fas fa-truck-loading"></i> Form Serah Terima Barang Ke Kurir
                 </a>
+                 </a>
+            <a href="https://script.google.com/macros/s/AKfycbz4WyNh7ncx617g-Y_dCDt2UlLRrs8SD7hNzV8f1F4e8YaqMRdar-LJcr3gELnfR-1Y0w/exec"
+   target="_blank"
+   style="display: flex; align-items: center; gap: 10px; background: linear-gradient(90deg, #ffcc00, #ff6600);
+          padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; text-decoration: none;
+          box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: transform 0.2s;">
+  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif"
+       alt="Truck Animation"
+       style="width: 40px; height: 40px; border-radius: 8px;">
+  <span>Form APLIKASI INBOUND SUPPLIER 🇨🇳</span>
+</a>
+
                       <!-- Penjualan -->
             <div class="divisi-card">
                 <div class="icon-box">
