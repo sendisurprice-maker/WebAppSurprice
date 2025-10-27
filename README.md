@@ -531,13 +531,86 @@ footer a:hover {
 
 <a href="https://script.google.com/macros/s/AKfycbyYeIlazPCBsSYE8aiXFU66Qdlcgwg2FP3W0lg2BbrkWAV79ZwrVH9C-cnuo5qSmyBj/exec"
    target="_blank"
-    style="display: flex; align-items: center; gap: 10px; background: linear-gradient(90deg, #0056b3, #007bff);
-        padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; text-decoration: none;
-        box-shadow: 0 4px 10px rgba(0, 123, 255, 0.3); transition: all 0.3s ease; font-size: 15px;"
-  
-  <img src="https://chatgpt.com/s/m_68fef98479748191adfc6416b574f410"
-       alt="Kurir Animation"
-       style="width: 40px; height: 40px; border-radius: 8px;">
+  <!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serah Terima Barang Outbound</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 50px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .delivery-button {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            background: linear-gradient(90deg, #0056b3, #007bff);
+            padding: 12px 20px;
+            border-radius: 12px;
+            color: #fff;
+            font-weight: bold;
+            text-decoration: none;
+            box-shadow: 0 4px 10px rgba(0, 123, 255, 0.3);
+            transition: transform 0.2s;
+            font-size: 15px;
+            cursor: pointer;
+            border: none;
+        }
+
+        .delivery-button:hover {
+            transform: translateY(-2px);
+        }
+
+        .delivery-button:active {
+            transform: translateY(0);
+        }
+
+        .kurir-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <a href="#" class="delivery-button">
+        <svg class="kurir-icon" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <!-- Background putih untuk icon -->
+            <rect width="100" height="100" rx="10" fill="white"/>
+            
+            <!-- Kurir (orang) -->
+            <circle cx="35" cy="30" r="8" fill="#007bff"/>
+            <path d="M35 38 L32 55 M35 38 L38 55" stroke="#007bff" stroke-width="3" stroke-linecap="round"/>
+            <path d="M35 45 L35 55" stroke="#007bff" stroke-width="3"/>
+            <path d="M32 55 L28 70 M38 55 L42 70" stroke="#007bff" stroke-width="3" stroke-linecap="round"/>
+            
+            <!-- Paket yang diserahkan -->
+            <rect x="50" y="45" width="20" height="20" fill="#ffa500" stroke="#ff8c00" stroke-width="2" rx="2"/>
+            <line x1="50" y1="55" x2="70" y2="55" stroke="#ff8c00" stroke-width="2"/>
+            <line x1="60" y1="45" x2="60" y2="65" stroke="#ff8c00" stroke-width="2"/>
+            
+            <!-- Panah serah terima -->
+            <path d="M42 50 L48 50" stroke="#28a745" stroke-width="2.5" stroke-linecap="round"/>
+            <path d="M48 50 L45 47 M48 50 L45 53" stroke="#28a745" stroke-width="2.5" stroke-linecap="round"/>
+            
+            <!-- Truck di belakang -->
+            <rect x="65" y="75" width="25" height="15" fill="#007bff" opacity="0.7" rx="2"/>
+            <circle cx="72" cy="92" r="3" fill="#333"/>
+            <circle cx="83" cy="92" r="3" fill="#333"/>
+        </svg>
+        Serah Terima Barang Outbound ke Kurir
+    </a>
+</body>
+</html>
    <span>Form Serah Terima Barang ke Kurir</span>
 </a>
 
