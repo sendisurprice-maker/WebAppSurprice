@@ -526,11 +526,51 @@ footer a:hover {
                 <a href="https://script.google.com/macros/s/AKfycbxowhyNoPAzcWnxRLYHXJ41oAO-Nnfi07sJYD0BgTkT2pn-MqsdhwMbXGSNOz4lGuntJA/exec" target="_blank">
                     <i class="fas fa-truck-loading"></i> Form Checker-Defect
                 </a>
-             <a href="https://script.google.com/macros/s/AKfycbyYeIlazPCBsSYE8aiXFU66Qdlcgwg2FP3W0lg2BbrkWAV79ZwrVH9C-cnuo5qSmyBj/exec" target="_blank">
-                    <i class="fas fa-truck-loading"></i> Form Serah Terima Barang Ke Kurir
-                </a>
-                 </a>
-            <a href="https://script.google.com/macros/s/AKfycbz4WyNh7ncx617g-Y_dCDt2UlLRrs8SD7hNzV8f1F4e8YaqMRdar-LJcr3gELnfR-1Y0w/exec"
+            <!-- Tambahkan Font Awesome kalau belum -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<a href="https://script.google.com/macros/s/AKfycbyYeIlazPCBsSYE8aiXFU66Qdlcgwg2FP3W0lg2BbrkWAV79ZwrVH9C-cnuo5qSmyBj/exec"
+   target="_blank"
+   class="pickup-btn">
+   <i class="fas fa-truck-loading"></i>
+   <span>Form Serah Terima Barang ke Kurir</span>
+</a>
+
+<style>
+.pickup-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: linear-gradient(90deg, #b8002b, #ff3b3b);
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 12px 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(255, 0, 0, 0.3);
+  transition: all 0.3s ease;
+  font-size: 15px;
+  letter-spacing: 0.3px;
+}
+
+.pickup-btn i {
+  font-size: 20px;
+  animation: truckMove 1.5s infinite alternate;
+}
+
+.pickup-btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 16px rgba(255, 0, 0, 0.4);
+  background: linear-gradient(90deg, #ff0000, #d50032);
+}
+
+@keyframes truckMove {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(6px); }
+}
+</style>
+
+        <a href="https://script.google.com/macros/s/AKfycbz4WyNh7ncx617g-Y_dCDt2UlLRrs8SD7hNzV8f1F4e8YaqMRdar-LJcr3gELnfR-1Y0w/exec"
    target="_blank"
    style="display: flex; align-items: center; gap: 10px; background: linear-gradient(90deg, #ffcc00, #ff6600);
           padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; text-decoration: none;
@@ -538,7 +578,7 @@ footer a:hover {
   <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif"
        alt="Truck Animation"
        style="width: 40px; height: 40px; border-radius: 8px;">
-  <span>Form APLIKASI INBOUND SUPPLIER 🇨🇳</span>
+  <span>Form APLIKASI INBOUND DARI SUPPLIER </span>
 </a>
 
                       <!-- Penjualan -->
