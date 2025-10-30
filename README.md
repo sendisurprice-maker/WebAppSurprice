@@ -571,19 +571,43 @@ footer a:hover {
        style="width: 40px; height: 40px; border-radius: 8px;">
   <span>Form APLIKASI INBOUND DARI SUPPLIER </span>
 </a>
-
-<a href="https://script.google.com/macros/s/AKfycbwoyqncHn5I5qBNvE4zoyRauLDbaJ8d4Gf7bXJ1QfoZSDlX3Swb__ZUqcwP-D1JwK8R/exec"
+ <h1>🎯 Pilih Style Button</h1>
+        
+        <div class="button-container">
+            <!-- Orange (Original) -->
+            <a href="https://script.google.com/macros/s/AKfycbwMVWvtSqAwpHQeQR4z_UMcDkkx0DSM5lTShwPUVAOCbA_0rrmpzfl7c_vDfSiq8NJp/exec"
+               target="_blank"
+               class="app-button">
+                <svg class="icon-box" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <linearGradient id="box1" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" style="stop-color:#ffcc00"/>
+                            <stop offset="100%" style="stop-color:#ff6600"/>
+                        </linearGradient>
+                    </defs>
+                    <g transform="translate(12, 10)">
+                        <path d="M-5,0 L-5,5 L0,7.5 L5,5 L5,0 L0,2.5 Z" fill="url(#box1)" stroke="#fff" stroke-width="0.8"/>
+                        <path d="M-5,0 L0,-2.5 L5,0 L0,2.5 Z" fill="#ffdd33" stroke="#fff" stroke-width="0.8"/>
+                        <path d="M5,0 L5,5 L0,7.5 L0,2.5 Z" fill="#ff8833" stroke="#fff" stroke-width="0.8"/>
+                        <path d="M-1.5,2.5 L0,4 L2.5,0.5" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+                    </g>
+                    <path d="M17,6 A6,6 0 0,1 19,10" fill="none" stroke="#fff" stroke-width="1.2" stroke-linecap="round" opacity="0.9"/>
+                    <path d="M18.5,9.5 L19,10 L18.3,10.3" fill="#fff" opacity="0.9"/>
+                </svg>
+                <span>APLIKASI SO Gudang - Cycle Count</span>
+            </a>
+<a href="https://script.google.com/macros/s/AKfycbzq_P9gWPKSXo3i31yxNEhX_JQYyzxMudY25DFsAmsF2JyMPEz_1ogw6i20pXLU19HxzQ/exec"
    target="_blank"
    style="display: flex; align-items: center; gap: 10px; background: linear-gradient(90deg, #ffcc00, #ff6600);
           padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; text-decoration: none;
-          box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: transform 0.2s; width: fit-content;">
-  <img src="https://cdn-icons-png.flaticon.com/512/7060/7060645.png"
-       alt="SO Gudang Icon"
+          box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: transform 0.2s;">
+  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif"
+       alt="Truck Animation"
        style="width: 40px; height: 40px; border-radius: 8px;">
-  <span>SO GUDANG</span>
+  <span>WAREHOUSE MANAGEMENT SYSTEM </span>
 </a>
 
-                      <!-- Penjualan -->
+<!-- Penjualan -->
             <div class="divisi-card">
                 <div class="icon-box">
                     <i class="fas fa-chart-line"></i>
