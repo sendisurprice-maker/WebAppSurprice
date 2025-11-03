@@ -522,6 +522,10 @@ footer a:hover {
                 <div class="icon-box">
                     <i class="fas fa-warehouse"></i>
                 </div>
+                 <h3>Warehouse</h3>
+                <a href=" https://sendisurprice-maker.github.io/Inbound-Mansistem" target="_blank">
+                    <i class="fas fa-truck-loading"></i> Inbound Management System
+                </a>
                 <h3>Warehouse</h3>
                 <a href="https://script.google.com/macros/s/AKfycbxowhyNoPAzcWnxRLYHXJ41oAO-Nnfi07sJYD0BgTkT2pn-MqsdhwMbXGSNOz4lGuntJA/exec" target="_blank">
                     <i class="fas fa-truck-loading"></i> Form Checker-Defect
