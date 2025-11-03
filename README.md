@@ -524,7 +524,7 @@ footer a:hover {
                 </div>
                  <h3>Warehouse</h3>
                 <a href=" https://sendisurprice-maker.github.io/Inbound-Mansistem" target="_blank">
-                <img src="https://raw.githubusercontent.com/sendisurprice-maker/WebAppSurprice/main/truck-inbound.png" width="300"><br>
+                <img src="https://github.com/sendisurprice-maker/WebAppSurprice/blob/main/ChatGPT%20Image%20Nov%203%2C%202025%2C%2002_42_21%20PM.png"><br>
                     <i class="fas fa-truck-loading"></i> Inbound Management System
                 </a>
                 <h3>Warehouse</h3>
