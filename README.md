@@ -524,7 +524,7 @@ footer a:hover {
                 </div>
                  <h3>Warehouse</h3>
                 <a href="https://sendisurprice-maker.github.io/Inbound-Mansistem" target="_blank">
-  <img src="https://raw.githubusercontent.com/sendisurprice-maker/WebAppSurprice/main/ChatGPT%20Image%20Nov%203%2C%202025%2C%2002_42_21%20PM.png" width="300"><br>
+  <img src="ChatGPT Image Nov 3, 2025, 02_42_21 PM.png" width="300"><br>
   🚛 Inbound Management System
 </a>
 
