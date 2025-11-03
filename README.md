@@ -523,10 +523,11 @@ footer a:hover {
                     <i class="fas fa-warehouse"></i>
                 </div>
                  <h3>Warehouse</h3>
-                <a href=" https://sendisurprice-maker.github.io/Inbound-Mansistem" target="_blank">
-                <img src="https://github.com/sendisurprice-maker/WebAppSurprice/blob/main/ChatGPT%20Image%20Nov%203%2C%202025%2C%2002_42_21%20PM.png"><br>
-                    <i class="fas fa-truck-loading"></i> Inbound Management System
-                </a>
+                <a href="https://sendisurprice-maker.github.io/Inbound-Mansistem" target="_blank">
+  <img src="https://raw.githubusercontent.com/sendisurprice-maker/WebAppSurprice/main/ChatGPT%20Image%20Nov%203%2C%202025%2C%2002_42_21%20PM.png" width="300"><br>
+  🚛 Inbound Management System
+</a>
+
                 <h3>Warehouse</h3>
                 <a href="https://script.google.com/macros/s/AKfycbxowhyNoPAzcWnxRLYHXJ41oAO-Nnfi07sJYD0BgTkT2pn-MqsdhwMbXGSNOz4lGuntJA/exec" target="_blank">
                     <i class="fas fa-truck-loading"></i> Form Checker-Defect
