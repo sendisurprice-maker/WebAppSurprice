@@ -528,7 +528,7 @@ footer a:hover {
   🚛 Inbound Management System
 </a>
 <a href="https://script.google.com/macros/s/AKfycbxVbbnwBJXG-YSJB3PVzmsBVpH0uH4U89D9T3xaxrfCaPWE0HkPQb7IoRBMkIrEgsdJ-A/exec" target="_blank">
-  <img src="ChatGPT Image Nov 3, 2025, 02_42_21 PM.png" width="300"><br>
+  <img src="Warehouse Worker Performing Cycle Count.png" width="300"><br>
   🚛 Sistem Management Stok
 </a>
                 <h3>Warehouse</h3>
