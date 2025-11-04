@@ -527,7 +527,10 @@ footer a:hover {
   <img src="ChatGPT Image Nov 3, 2025, 02_42_21 PM.png" width="300"><br>
   🚛 Inbound Management System
 </a>
-
+<a href="https://script.google.com/macros/s/AKfycbxVbbnwBJXG-YSJB3PVzmsBVpH0uH4U89D9T3xaxrfCaPWE0HkPQb7IoRBMkIrEgsdJ-A/exec" target="_blank">
+  <img src="ChatGPT Image Nov 3, 2025, 02_42_21 PM.png" width="300"><br>
+  🚛 Sistem Management Stok
+</a>
                 <h3>Warehouse</h3>
                 <a href="https://script.google.com/macros/s/AKfycbxowhyNoPAzcWnxRLYHXJ41oAO-Nnfi07sJYD0BgTkT2pn-MqsdhwMbXGSNOz4lGuntJA/exec" target="_blank">
                     <i class="fas fa-truck-loading"></i> Form Checker-Defect
